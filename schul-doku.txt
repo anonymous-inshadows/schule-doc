@@ -1,0 +1,12 @@
+Woche 1:
+  Teilnahme an einem Brückenkurs um rein zukommen
+
+Woche 2:
+  arbeit an Cubes
+
+Woche 3:
+  Schreiben und Arbeiten mit Python scripts
+  Ros2 lernen um python scripte einzusetzen
+
+woche 4:
+  Mit hilfe von python scripts und ROS2 den Roboter mit SteamDeck kontrollieren
