@@ -3,6 +3,7 @@ Woche 1:
 
 Woche 2:
   arbeit an Cubes
+  Cubes umbauen genau messen und genau arbeiten
 
 Woche 3:
   Schreiben und Arbeiten mit Python scripts
@@ -10,3 +11,6 @@ Woche 3:
 
 woche 4:
   Mit hilfe von python scripts und ROS2 den Roboter mit SteamDeck kontrollieren
+  python script verbessern um besser den Roboter zu kontrollieren
+  weitere python scripts schreiben um besser kontrolle haben
+  weiter mit ROS2 arbeiten und weitere Sachen da drin lernen
