@@ -1,26 +1,33 @@
 Woche 1:
-  Teilnahme an einem Brückenkurs um rein zukommen
+- Teilnahme an einem Brückenkurs um rein zukommen
 
 Woche 2:
-  arbeit an Cubes
-  Cubes umbauen genau messen und genau arbeiten
+- arbeit an Cubes
+- Cubes umbauen genau messen und genau fest schrauben
 
 Woche 3:
-  Schreiben und Arbeiten mit Python scripts
-  ROS2 lernen um python scripte einzusetzen
+- Schreiben und Arbeiten mit Python scripts
+- ROS2 lernen um python scripte einzusetzen
 
 woche 4:
-  Mit hilfe von python scripts und ROS2 den Roboter mit SteamDeck kontrollieren
-  python script verbessern um besser den Roboter zu kontrollieren
-  weitere python scripts schreiben um bessere kontrolle zu haben
-  weiter mit ROS2 arbeiten und weitere Sachen da drin lernen
+- Mit hilfe von python scripts und ROS2 den Roboter mit SteamDeck kontrollieren
+- python script verbessern um besser den Roboter zu kontrollieren
+- weitere python scripts schreiben um bessere kontrolle zu haben
+- weiter mit ROS2 arbeiten und weitere Sachen da drin lernen
 
 Woche 5:
-  Versuchen ROS2 zu verbessern
-  Weitere scripte erstellen und es verbessern
-  Scripte debuggen
+- Versuchen ROS2 zu verbessern
+- Weitere scripte erstellen und es verbessern
+- Scripte debuggen
 
 Woche 6:
-  ROS2 Projekt debuggen weil es nicht wirklich gute tutorial dafür gibt
-  Versuchen andere scripte zu benutzen weil dann ROS2 nicht richtig funktioniert
-  Immernoch ROS2 debugging
+- ROS2 Projekt debuggen weil es nicht wirklich gute tutorial dafür gibt
+- Versuchen andere scripte zu benutzen weil dann ROS2 nicht richtig funktioniert
+- Immernoch ROS2 debugging
+
+Woche 7:
+- Fertig mit ROS2. Ein komplettes projekt (roboter mit Steam Deck kontrollieren) gebaut und es hochgeladen
+- Ein sehr sehr gute Readme erstellt in der pkg damit man es ohne erfahrung auch nutzen kann
+- Angefangen mit Kontrollieren von E Ink displays durch microcontroller
+- Zwei bereit existierte projekte bekommen die nicht wirklich so gut sind damit ich da rein komme
+- Die projekte benutzt mit sehr viel änderungen und erfolgreich sachen auf dem E Ink display geschrieben mit Flask server durch den microcontroller
